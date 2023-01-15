@@ -46,3 +46,4 @@ $ - Matches the end of the input string. <br/>
 ## Requirements for running the code
 
 1. The User needs to install node js
+2. To run this code, please clone this repository. Or you can always copy the copy and paste it directly on your IDE of choice. Ensure you have nodejs installed and configured. Enter this command in your terminal: Node regex.js
